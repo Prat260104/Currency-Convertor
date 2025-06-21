@@ -24,5 +24,36 @@ A simple and elegant **React-based Currency Converter** app built with Tailwind 
 
 ---
 
+## ⚙️ Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Prat260104/currency-converter.git
+cd currency-converter
+```
+
+---
+
+### 2. Install dependencies
+```bash
+npm install
+```
+
+---
+
+### 3. Run the development server
+```bash
+npm run dev
+```
+
+---
+
+ ### 4.🌐 API Reference
+ ```bash
+https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/<from>.json
+```
+
+
 
 
