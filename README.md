@@ -29,8 +29,8 @@ A simple and elegant **React-based Currency Converter** app built with Tailwind 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Prat260104/Currency-Converter.git
-cd Currency-Converter
+git clone https://github.com/Prat260104/Currency-Convertor.git
+cd Currency-Convertor
 ```
 
 ---
@@ -63,7 +63,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## ⭐ Show your support
 
-If you found this project helpful or interesting, consider giving it a star ⭐ on [GitHub](https://github.com/Prat260104/Currency-Converter)!
+If you found this project helpful or interesting, consider giving it a star ⭐ on [GitHub](https://github.com/Prat260104/Currency-Convertor)!
 
 
 
