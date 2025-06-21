@@ -2,8 +2,6 @@
 
 A simple and elegant **React-based Currency Converter** app built with Tailwind CSS and React Hooks. This project allows users to convert currencies in real time using the latest exchange rates, powered by an open-source API.
 
-![screenshot](https://images.pexels.com/photos/3532540/pexels-photo-3532540.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
-
 ---
 
 ## 🚀 Features
